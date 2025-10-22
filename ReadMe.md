@@ -1,5 +1,7 @@
 # Hospital Inpatient Discharges (SPARCS) - Big Data Project
 
+We created a Ridge Regression model for Total Charges in the SPARCS dataset. 
+
 ## References
 
 - [NY Health Data: Hospital Inpatient Discharges (SPARCS)](https://health.data.ny.gov/stories/s/wvua-rr23)
